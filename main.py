@@ -1,6 +1,6 @@
 # based on the notebook by "Greg Hogg" at 
 # (https://colab.research.google.com/drive/1fh-clVMIgwN3eJVo219l1BdmpsetrDmN?usp=sharing)
-# uses dataset by ABDALLAH WAGIH IBRAHIM at
+# uses dataset by Abdallah Wagih Ibrahim at
 # (https://www.kaggle.com/datasets/abdallahwagih/spam-emails)
 import pandas as pd
 import numpy as np
